@@ -45,7 +45,7 @@ export default {
             //     name: this.signin.email
             //     })
             this.doLogin(this.signin).then(response => {
-                console.log(response); 
+                console.log(response);
             })
         }
     }
